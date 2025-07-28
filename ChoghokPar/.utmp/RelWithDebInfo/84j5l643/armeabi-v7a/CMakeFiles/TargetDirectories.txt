@@ -1,0 +1,5 @@
+E:/DeadFlow/PickoGo/ChoghokPar/.utmp/RelWithDebInfo/84j5l643/armeabi-v7a/CMakeFiles/edit_cache.dir
+E:/DeadFlow/PickoGo/ChoghokPar/.utmp/RelWithDebInfo/84j5l643/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+E:/DeadFlow/PickoGo/ChoghokPar/.utmp/RelWithDebInfo/84j5l643/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+E:/DeadFlow/PickoGo/ChoghokPar/.utmp/RelWithDebInfo/84j5l643/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+E:/DeadFlow/PickoGo/ChoghokPar/.utmp/RelWithDebInfo/84j5l643/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
