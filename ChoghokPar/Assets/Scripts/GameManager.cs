@@ -113,7 +113,7 @@ public class GameManager : MonoBehaviour
         // اگر کامپوننت پیدا شد، مقادیر رو تنظیم کن
         if (loopGround != null)
         {
-            loopGround._loopSpeed = 4.2f;
+            loopGround._loopSpeed = 8.2f;
             loopGround._loopDistance = 33.5f;
         }
         else
